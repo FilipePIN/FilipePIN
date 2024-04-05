@@ -1,6 +1,13 @@
-### Hi there 👋
+<!--### Hi there 👋-->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=BB00B4&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+o+Filipe!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
+<img align="right" alt="" height="300px" src="./Profile picture avatar.jpeg">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=4682B4&random=false&width=435&height=40&lines=Hi%2C+I+am+Filipe!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
+
+### I'm a Data Scientist with 5+ years of experience executing data-driven solutions to increase efficiency, accuracy, and utility of internal data processing. Experienced at creating data regression and classification models, using predictive data modelling and data mining algorithms to deliver insights and implement action-oriented solutions to complex business problems.
+
+[![E-mail](https://img.shields.io/badge/-Email-FFA07A?style=for-the-badge&logo=microsoft-outlook&logoColor=FFF&color:FFA07A)](mailto:filcarvalho27@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-6495ED?style=for-the-badge&logo=linkedin&logoColor=FFF&color:6495ED)](https://www.linkedin.com/in/filipe-cs/)
 
 <!--
 **FilipePIN/FilipePIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
